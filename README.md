@@ -1,2 +1,2 @@
 # kvssetty.ai
-this is my KVS Setty AI web site
+This is my KVS Setty AI website
